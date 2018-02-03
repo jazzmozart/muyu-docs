@@ -43,6 +43,7 @@ const siteConfig = {
     ' Your Name or Your Company Name',
   organizationName: 'muyus', // or set an env variable ORGANIZATION_NAME
   projectName: 'muyus.github.io', // or set an env variable PROJECT_NAME
+  facebookAppId: '410082162756490',
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
