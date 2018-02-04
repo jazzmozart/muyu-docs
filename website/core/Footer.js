@@ -34,10 +34,10 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
-            {/*<a href={this.docUrl('doc1.html', this.props.language)}>*/}
-              {/*Getting Started (or other categories)*/}
-            {/*</a>*/}
+            <h5>礼品券</h5>
+              <a href='https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=d2bitiiq&utm_source=d2bitiiq' title="阿里云幸运券" target="_blank">
+                阿里云幸运券
+              </a>
             {/*<a href={this.docUrl('doc2.html', this.props.language)}>*/}
               {/*Guides (or other categories)*/}
             {/*</a>*/}

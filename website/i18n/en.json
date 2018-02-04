@@ -4,12 +4,16 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "服务框架应用DEMO",
+    "aliyun-oss": "阿里云OSS简介",
+    "OSS简介": "OSS简介",
     "doc1": "Latin-ish",
     "Example Page": "Example Page",
+    "阿里云": "阿里云",
     "Docker": "Docker",
     "Blog": "Blog",
     "GitHub": "GitHub",
-    "Getting Started": "Getting Started"
+    "Getting Started": "Getting Started",
+    "存储": "存储"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

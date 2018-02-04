@@ -80,7 +80,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('doc1.html', language)}>Docker</Button>
+            <Button href={docUrl('aliyun-oss.html', language)}>阿里云</Button>
           </PromoSection>
         </div>
       </SplashContainer>

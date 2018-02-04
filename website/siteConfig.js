@@ -22,6 +22,7 @@ const siteConfig = {
   baseUrl: '/' /* base url for your project */,
   projectName: 'muyu-docs',
   headerLinks: [
+    {doc: 'aliyun-oss', label: '阿里云'},
     {doc: 'doc1', label: 'Docker'},
     {blog: true, label: 'Blog'},
     {href: 'https://github.com/muyus', label: 'GitHub' },

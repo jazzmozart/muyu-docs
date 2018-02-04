@@ -10,7 +10,7 @@ if (!shell.which('git')) {
 }
 
 const siteConfig = require(process.cwd() + '/siteConfig.js');
-const GIT_USER = process.env.GIT_USER;
+const GIT_USER = 'muyus';
 const CURRENT_BRANCH =
   process.env.CIRCLE_BRANCH || shell.exec('git rev-parse --abbrev-ref HEAD');
 const ORGANIZATION_NAME =

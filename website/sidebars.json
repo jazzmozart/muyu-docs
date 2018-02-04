@@ -1,5 +1,8 @@
 {
   "docs": {
     "Getting Started": ["doc1"]
+  },
+  "aliyun-docs": {
+    "存储": ["aliyun-oss"]
   }
 }
