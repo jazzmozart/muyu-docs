@@ -14,5 +14,10 @@
   },
   "devDependencies": {
     "docusaurus": "^1.0.5"
+  },
+  "dependencies": {
+    "ali-oss": "^4.12.2",
+    "co": "^4.6.0",
+    "firebase": "^4.9.1"
   }
 }

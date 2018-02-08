@@ -15,6 +15,13 @@ const users = [
   },
 ];
 
+const oss = {
+  accessKeyId: 'LTAIOL8cFmKvDULz',
+  accessKeySecret: 'N2jVwq8LquuRAXzLtdZaIETtbCAUfK',
+  bucket: 'muyus',
+  region: 'oss-cn-beijing'
+};
+
 const siteConfig = {
   title: '木渔' /* title for your website */,
   tagline: '服务框架应用DEMO',
@@ -28,6 +35,7 @@ const siteConfig = {
     {href: 'https://github.com/muyus', label: 'GitHub' },
   ],
   users,
+  oss,
   /* path to images for header/footer */
   headerIcon: 'img/muyu.png',
   footerIcon: 'img/muyu.png',
